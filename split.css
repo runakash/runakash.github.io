@@ -228,9 +228,11 @@ body.page-template-page-fullsingle-split {
         transition-duration: 0.1s; }
 
 .split-credit {
-  opacity: 0.4; }
+  opacity: 0.4;
+  position: fixed; 
+  bottom: 10px; }
   .split-credit p {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 14px; }
     .split-credit p a {
       color: #848d96; }
